@@ -20,9 +20,9 @@ if(id!=""){
         }, 200);
 	document.title = name;
 	if(window.location.href.indexOf("TV_")>-1){
-		file = "http://sptnacdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/"+stream+"/"+stream+".m3u8";
+		file = "http://smumcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/"+stream+"/"+stream+".m3u8";
 	}else{
-		file = "http://sptnacdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/"+stream+"/"+stream+".m3u8";
+		file = "http://smumcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/"+stream+"/"+stream+".m3u8";
 	}
 	//}
 	
